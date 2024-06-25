@@ -1,0 +1,4 @@
+- Choose an environment / model
+- evaluate the current model on that environment
+- make a VINN class based on policy class with empty function
+- see if i can run a trivial thing with 0 actions essentially
